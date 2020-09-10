@@ -3,7 +3,7 @@
 
 * Masters of Software Engineering Final Year Student
 * Tech and Science Enthusiast
-* Part-time researcher in Machine Learning/ Hackathon outcomes sustainability
+* Part-time researcher in Hackathon outcomes sustainability
 * Software Developer intern at Kuhne+Nagel
 
 
@@ -34,12 +34,7 @@
   
    <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>    
-
-  
-   <a href="#">
-  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>   
+</a>      
 
 
    <a href="#">
