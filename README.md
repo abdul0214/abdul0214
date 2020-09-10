@@ -26,14 +26,15 @@
      <a href="#">
      <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>   -->
-  
+ <!-- 
    <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>    
    <a href="#">
      <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-     <a href="#">
+  </a> 
+-->
+ <a href="#">
     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/fsharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
   
