@@ -61,10 +61,10 @@
 </a>  
 
  
-   <a href="#">
+   <a href="https://github.com/DataSystemsGroupUT/DLBench/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/misc/datascience.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    
-  <a href="#">
+  <a href="https://github.com/abdul0214/Business-Data-Analytics">
    <img src="https://github.com/abdul0214/abdul0214/blob/master/svg/dev/tools/%20jupyter.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </a>  
 
