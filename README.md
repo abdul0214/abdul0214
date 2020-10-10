@@ -55,11 +55,6 @@
 </a> 
 
 
-
-   <a href="#">
-   <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
-
  
    <a href="https://github.com/DataSystemsGroupUT/DLBench/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/misc/datascience.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
