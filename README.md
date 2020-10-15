@@ -7,7 +7,7 @@
 * Software Developer intern at Kuhne+Nagel
 
 
-![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues)
+![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
 
 
 
