@@ -14,7 +14,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
 </a>
 
-
+<br />
 <p align="center">
    <a href="#">
     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
