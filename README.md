@@ -10,16 +10,10 @@
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
 
 
-
-
 <a href="https://lon9.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
 </a>
 
-
-
-
-## Tech
 
 <p align="center">
    <a href="#">
