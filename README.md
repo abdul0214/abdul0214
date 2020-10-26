@@ -123,9 +123,10 @@
  
 
 
- 
- 
-## Social
+
+<br />
+<br />
+##  Social
 <p align="center">
   <a href="https://www.instagram.com/abdul.w.minhas/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
