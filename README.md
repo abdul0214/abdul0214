@@ -12,6 +12,13 @@
 
 
 
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
+</a>
+
+
+
+
 ## Tech
 
 <p align="center">
