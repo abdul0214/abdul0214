@@ -3,7 +3,7 @@
 
 * Masters of Software Engineering Final Year Student
 * Tech and Science Enthusiast
-* Part-time researcher in Data Science
+* Part-time researcher in Data Science and Hackathons
 * Software Developer intern at Kuhne+Nagel
 
 
