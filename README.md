@@ -1,7 +1,7 @@
 ### Hi there, 👋 - I am Abdul
 
 
-* Masters of Software Engineering Final Year Student
+* Masters of Software Engineering
 * Tech and Science Enthusiast
 * Part-time researcher in Data Science and Hackathons
 * Software Developer intern at Kuhne+Nagel
