@@ -1,11 +1,11 @@
 ### Hi there, 👋 - I am Abdul
 
 
-* Masters of Software Engineering
 * Tech and Science Enthusiast
-* Part-time researcher in Data Science and Hackathons
+* Masters of Software Engineering
 * Software Developer intern at Kuhne+Nagel
-* API Documentation should be like menu booklet in a resturant
+* Part-time researcher in Computer Supported Collaborative Work (CSCW).
+* " API Documentation should be like Menu booklet in a resturant " - Me
 
 
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
