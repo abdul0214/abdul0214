@@ -11,20 +11,12 @@
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
 
 <!--
+
 <a href="https://lon9.github.io">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
 </a>
- -->
-<br />
-<p align="center">
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-      
    <a href="#">
     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/django.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-         
-      
-<!--   </a>  
      <a href="#">
      <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>   -->
@@ -35,7 +27,13 @@
    <a href="#">
      <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
--->
+
+ -->
+<br />
+<p align="center">
+   <a href="#">
+    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+   
 
 <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -44,14 +42,7 @@
  <a href="#">
     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
-  
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
- 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
+
 
    <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -60,14 +51,8 @@
    <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/springboot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a> 
-
- <a href="#">
-    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/fsharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
   
      
-
-
 
    <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/services/npm.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
