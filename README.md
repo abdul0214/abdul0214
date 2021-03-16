@@ -15,10 +15,8 @@
 <a href="https://lon9.github.io">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul0214&hide=jupyter%20notebook" />
 </a>
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/django.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
      <a href="#">
-     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/vue.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>   -->
  <!-- 
    <a href="#">
