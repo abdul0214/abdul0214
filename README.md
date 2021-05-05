@@ -28,7 +28,8 @@
 <p align="center">
    <a href="#">
     <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   
+   </a> 
+
 
 <a href="#">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
