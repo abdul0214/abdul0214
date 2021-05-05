@@ -69,12 +69,6 @@
   <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
      
- 
- 
-  
-   <a href="#">
-  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-</a>  
 
 </a>  
  </p>
