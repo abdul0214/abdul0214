@@ -3,7 +3,7 @@
 
 * Tech and Science Enthusiast
 * Masters of Software Engineering
-* Software Developer intern at Kuhne+Nagel
+* Software Engineer at Kuhne + Nagel
 * " API Documentation should be like Menu booklet in a resturant " - Me
 * Part-time researcher in Computer Supported Collaborative Work (CSCW) - Remote Synchronous Collaboration for Software Development
 
