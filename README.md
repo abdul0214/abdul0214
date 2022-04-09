@@ -83,9 +83,9 @@
 
 ## Social
 <p align="center">
-  <a href="https://www.instagram.com/abdul.w.minhas/">
+<!--   <a href="https://www.instagram.com/abdul.w.minhas/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   </a>  
+   </a>   -->
    
    <a href="https://www.linkedin.com/in/abdulwahab14/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -94,9 +94,9 @@
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/email_me.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a> 
    
-   <a href="https://join.skype.com/invite/i7fCIZroR5sZ">
+<!--    <a href="https://join.skype.com/invite/i7fCIZroR5sZ">
   <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/skype.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-   </a> 
+   </a>  -->
 
    <a href="https://twitter.com/AWMinhas">
  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
