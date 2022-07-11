@@ -7,9 +7,9 @@
 * "API Documentation should be like Menu booklet in a resturant " - Me
 * I write about Java and Spring at [Baeldung](https://www.baeldung.com/), a [recent article](https://www.baeldung.com/java-wildcard-imports)
 
-
+<!--
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
-
+ -->
 <!--
 
 <a href="https://lon9.github.io">
