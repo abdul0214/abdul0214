@@ -2,10 +2,10 @@
 
 
 * Tech and Science Enthusiast
-* Masters of Software Engineering
-* Software Engineer at Kuhne + Nagel
-* " API Documentation should be like Menu booklet in a resturant " - Me
-* Part-time researcher in Computer Supported Collaborative Work (CSCW) - Remote Synchronous Collaboration for Software Development
+* MSc. Software Engineering
+* Software Engineer at [Monese](https://monese.com/gb/en)
+* "API Documentation should be like Menu booklet in a resturant " - Me
+* I write about Java and Spring at [Baeldung](https://www.baeldung.com/), a [recent article](https://www.baeldung.com/java-wildcard-imports)
 
 
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
