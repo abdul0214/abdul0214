@@ -4,7 +4,6 @@
 * Tech and Science Enthusiast
 * MSc. Software Engineering
 * Software Engineer at [Monese](https://monese.com/gb/en)
-* "API Documentation should be like Menu booklet in a resturant " - Me
 * I write about Java and Spring at [Baeldung](https://www.baeldung.com/), a [recent article](https://www.baeldung.com/java-wildcard-imports)
 
 <!--
