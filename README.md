@@ -86,7 +86,7 @@
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>   -->
    
-   <a href="https://www.linkedin.com/in/abdulwahab14/">
+   <a href="https://www.linkedin.com/in/abdul0214/">
    <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
    </a>  
       <a href="mailto:abdul.wahab0214@gmail.com">
