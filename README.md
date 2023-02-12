@@ -4,7 +4,7 @@
 * Tech. and Science Enthusiast
 * MSc. Software Engineering(Enterprise Web Systems Integration)
 * Software Engineer at [Monese](https://monese.com/gb/en)
-* I write about Java and Spring at [Baeldung](https://www.baeldung.com/), recent articles [here](https://www.baeldung.com/java-wildcard-imports) & [here](https://www.baeldung.com/spring-setting-ttl-value-cache)
+* I write about Java Spring Boot at [Baeldung](https://www.baeldung.com/), recent articles [here](https://www.baeldung.com/java-wildcard-imports) & [here](https://www.baeldung.com/spring-setting-ttl-value-cache)
 
 <!--
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
