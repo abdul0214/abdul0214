@@ -3,7 +3,6 @@
 
 * Technology and Science Enthusiast
 * MSc. Software Engineering(Enterprise Web Systems Integration)
-* Software Engineer at [Monese](https://monese.com/gb/en)
 * I write about Java Spring Boot at [Baeldung](https://www.baeldung.com/), recent articles [here](https://www.baeldung.com/java-wildcard-imports) & [here](https://www.baeldung.com/spring-setting-ttl-value-cache)
 
 <!--
