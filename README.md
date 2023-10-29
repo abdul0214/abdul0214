@@ -6,7 +6,6 @@
 * MSc. Software Engineering(Enterprise Web Systems Integration)
 * I write about Java Spring Boot at [Baeldung](https://www.baeldung.com/), recent articles [here](https://www.baeldung.com/java-wildcard-imports) & [here](https://www.baeldung.com/spring-setting-ttl-value-cache)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb87dbc1-cbf3-4ae3-9245-4f155a338478" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 ![Abduls's github stats](https://github-readme-stats.vercel.app/api?username=abdul0214&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
