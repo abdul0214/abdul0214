@@ -61,9 +61,11 @@
    <img src="https://github.com/abdul0214/abdul0214/blob/master/svg/dev/tools/%20jupyter.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
 </a>  
 
-
    <a href="#">
-  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/services/google_cloud_platform.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/services/aws.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+   <a href="#">
+  <img src="https://raw.githubusercontent.com/abdul0214/abdul0214/master/svg/dev/services/gcp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </a>  
  
   
